@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../shoter game 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shoter game 1"
+	}
+}
